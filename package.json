@@ -48,7 +48,7 @@
     "boxen": "^7.0.1",
     "clipboardy": "^3.0.0",
     "dotenv": "^16.0.3",
-    "fastify": "^4.11.0",
+    "fastify": "^5.0.0",
     "fetch-undici": "^3.0.1",
     "https-proxy-agent": "^7.0.0",
     "inquirer": "^9.1.4",
